@@ -1,4 +1,4 @@
-# 喂饭式VPS搭建部署加速服务器教程（亲测可用）
+# 喂饭式VPS搭建部署网络加速服务器可访问Google/ChatGPT/MJ教程（亲测可用）
 纯小白新手，想体验 GPT 和 MJ，看了VPS搭建 SS 教程发现都有坑没法搭建成功，写个文档记录可用无坑版。
 
 
@@ -48,7 +48,7 @@
 修改账单地址为 `China`，地址信息随便填填，然后点击 `Save this address` 按钮，如下：
 ![](pic/v14.png)
 
-选择最小充值额 `10$`，同意用户政策，点击 `Pay with Alipay` 按钮，会调整到支付包界面：
+选择最小充值额 `10$`，同意用户政策，点击 `Pay with Alipay` 按钮，会调整到支付宝界面：
 ![](pic/v15.png)
 
 支付成功会自动回到 vultr 主界面，此时我们来确认一下是否有充值成功，点击 `Account`, 然后点击 `Make a Payment`，此时可以看到右上角确实是到账 `$310`
@@ -60,7 +60,8 @@
 ![](pic/v18.png)
 
 `Choose Type` 这里选择第二个，Shared CPU，如下：
-![](pic/v19.png)
+
+
 
 `Choose Location` 这里选择服务器地址，这里我选了个美国的服务器地址，如下：
 ![](pic/v20.png)
@@ -76,7 +77,7 @@
 如果只是搭建 SS 服务器的话，选择第一个最低配置即可：
 ![](pic/v23.png)
 
-`Additional Features` 这里把 `Auto Backup` 取消掉，还能剩 `$1`：
+`Additional Features` 这里把 `Auto Backup` 取消掉，还能减 `$1`：
 ![](pic/v35.png)
 
 
